@@ -11,6 +11,9 @@ paru -S hyprland-git hyprpicker-git waybar-hyprland-git dunst nwg-look wf-recore
 ## Prerequisitos
 paru
 
+# Drivers
+Usando NVIDIA drivers en arch linux el sistema simplemente no empieza con tarjetas viejas (600 series no funciona).
+
 # References
 - [Hyprland](https://hyprland.org/) - Pagina principal del wm
 - [Artix Linux](https://artixlinux.org/) - Distribucion elegida (runit)
