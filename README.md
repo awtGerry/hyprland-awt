@@ -1,5 +1,6 @@
 <div align="center">
     <h1><strong>Configuracion Hyprland</strong></h1>
+    <img title="p1" alt="Alt text" src="1687634030.screensht.png">
 </div>
 
 # Instalacion
