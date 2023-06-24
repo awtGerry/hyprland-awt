@@ -14,3 +14,4 @@ paru
 # References
 - [Hyprland](https://hyprland.org/) - Pagina principal del wm
 - [Artix Linux](https://artixlinux.org/) - Distribucion elegida (runit)
+- [Configuracion](https://github.com/linuxmobile/hyprland-dots) - linuxmobile
