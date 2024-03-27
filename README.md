@@ -1,3 +1,5 @@
+# Go to [home-cfg](https://github.com/awtGerry/home-cfg) for hyprland config.
+
 <div align="center">
     <h1><strong>Configuracion Hyprland</strong></h1>
     <img title="p1" alt="Alt text" src="1687634030.screensht.png">
